@@ -1,0 +1,4 @@
+wordcount
+=========
+
+Contador de palavras
